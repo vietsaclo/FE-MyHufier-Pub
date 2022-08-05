@@ -2,7 +2,7 @@
 # FrontEnd Myhufier
 
 Welcome to **Myhufier**
-### ![rocket](https://github.githubassets.com/images/icons/emoji/unicode/1f680.png)  [Demo](https://myhufier.com/)
+### ![rocket](https://github.githubassets.com/images/icons/emoji/unicode/1f680.png)  [Demo](http://myhufier.ddns.net/)
 ## On website ?
 
 ![Screenshot from 2022-06-22 10-01-00](https://user-images.githubusercontent.com/75923948/174934370-b01126b6-f09d-46b1-99a0-cedb6565a6fe.png)
